@@ -1,0 +1,1 @@
+def high_number(list1):    return max(list1)def descending_order(list2):    x = sorted(list2)    return x[::-1]
